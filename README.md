@@ -62,9 +62,11 @@ Follow below:
 
 Clone this repo:
 
-```bash
-git clone https://github.com/ryaniskin/SmartInbox.git
-cd SmartInbox
+   ```bash
+   git clone https://github.com/ryaniskin/SmartInbox.git
+   cd SmartInbox
+```
 
+Any questions? LinkedIn: https://www.linkedin.com/in/ryan-iskin
 
-###📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+📄 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
