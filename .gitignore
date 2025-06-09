@@ -1,0 +1,46 @@
+# Maven output
+/target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+/target
+/*.iml
+*.log
+*.class
+tokens/
+/screenshot/*.DS_Store
+*.env
+*.jar
+credentials.json
+
+# VS Code
+.vscode/
+
+# MacOS sistem dosyaları
+.DS_Store
+
+# Windows sistem dosyaları
+Thumbs.db
+desktop.ini
+
+# Log dosyaları
+*.log
+
+# Build araçları
+/build/
+out/
+
+# Temporary dosyalar
+*.class
+*.swp
+*.swo
+*.bak
+
+# Credentials ve API keys (kendi dosyan)
+credentials.json
+
+# JavaFX native cache
+.gradle/
